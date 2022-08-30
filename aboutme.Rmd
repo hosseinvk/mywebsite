@@ -1,0 +1,25 @@
+---
+title: "About Me"
+author: "Hossein V Kahrood"
+date: "2022-08-29"
+output: html_document
+
+---
+
+## Introduction
+
+This is an introduction of myself. I started my new career as a *Bioinformatician* at Monash University.
+You can find my activities in <https://github.com/hosseinvk/>.
+
+### Monash Proteomic and Metabolomic Facility (MPMF)
+MPMF is equipped with the latest mass spectrometric instrumentation, the Monash Proteomics & Metabolomics Facility (MPMF) combines cutting-edge technology with state-of-the-art methodology to provide the best possible results and expertise to customers and collaborators. Click on this link for more information: <https://www.monash.edu/researchinfrastructure/mpmf>
+
+### Monash Bioinformatics Platform (MBP)
+At MBP, we are a team of bioinformatics experts with backgrounds in Bioinformatics, Biology, Mathematics, Computer Science and Software Development. Click here for more information: <https://www.monash.edu/researchinfrastructure/bioinformatics/>
+
+### Monash University
+Monash is located at both the Clayton and Alfred campuses and actively engage with bioinformaticians and wet-lab researchers via various forums, online communication tools, and seminars. The link to Monash University is here: <https://www.monash.edu/>
+
+
+
+
